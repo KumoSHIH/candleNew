@@ -3,7 +3,6 @@
     <loading :active.sync="isLoading" :is-full-page="true">
         <CandleLoading/>
     </loading>
-    
     <Alert/>
     <Nav/>
     <router-view></router-view>
