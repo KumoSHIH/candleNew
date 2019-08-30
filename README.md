@@ -2,7 +2,7 @@
 [![image.jpg](https://i.imgur.com/bpxD2ZO.jpg)](https://imgur.com/bpxD2ZO)
 
 ## Demo
-https://kumoshih.github.io/cnadleNew/#
+https://kumoshih.github.io/candleNew/#/
 
 ## Introduction
 <ul>
