@@ -1,0 +1,17 @@
+$main: #574f7d;
+$second: #95adbe;
+$text-main: #fdef96;
+$text-light : #f76262;
+
+$font-s: 16px;
+$font-m: 18px;
+
+*{
+  font-family: 'Microsoft JhengHei','Roboto','San Francisco','Heiti FC','sans-serif';
+}
+.text-main{
+  color: $text-main;
+}
+.titleTop{
+  margin-top: 80px; 
+}
