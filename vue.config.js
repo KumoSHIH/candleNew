@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/candleCLI3/'
+  publicPath: '/candleNew/'
 }
