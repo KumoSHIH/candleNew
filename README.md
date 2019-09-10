@@ -28,22 +28,22 @@ https://kumoshih.github.io/candleNew/#/
 
 ## 使用技術
 <ul>
-  <li>Vue-Cli3</li>
-  <li>Vuex</li>
-  <li>API應用:前後端分離</li>
-  <li>SCSS</li>
-  <li>Plugin:
-    <ul>
-      <li>[vue-axios](https://www.npmjs.com/package/vue-axios)</li>
-      <li>[VeeValidate](https://logaretm.github.io/vee-validate/)</li>
-      <li>[vue-loading-overlay](https://www.npmjs.com/package/vue-loading-overlay)</li>
-      <li>[vue-displacement-slideshow](https://www.npmjs.com/package/vue-displacement-slideshow)</li>
-      <li>[Bootstrap 4](https://github.com/twbs/bootstrap)</li>
-      <li>[jQuery](https://www.npmjs.com/package/jquery)</li>
-      <li>[anime.js](https://github.com/juliangarnier/anime/)</li>
-    </ul>
-  </li>
+  <li>Vue-Cli3 建置專案 </li>
+  <li>Vuex 管理資料狀態</li>
+  <li>API應用 : 前後端分離</li>
+  <li>SCSS 管理樣式程式碼 </li>
 </ul>
+
+## 使用 Plugins
+
+* [vue-axios](https://www.npmjs.com/package/vue-axios)
+* [VeeValidate](https://logaretm.github.io/vee-validate/)
+* [vue-loading-overlay](https://www.npmjs.com/package/vue-loading-overlay)
+* [vue-displacement-slideshow](https://www.npmjs.com/package/vue-displacement-slideshow)
+* [Bootstrap 4](https://github.com/twbs/bootstrap)
+* [jQuery](https://www.npmjs.com/package/jquery)
+* [anime.js](https://github.com/juliangarnier/anime/)
+
 
 ### 文字與圖片為個人練習使用，非商業用途
 
