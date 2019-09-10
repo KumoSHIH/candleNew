@@ -41,9 +41,9 @@
       color: #f76262;
     }
   }
-  @media (max-width:765px) {
+  @media (max-width:768px) {
     .footer{
-      height: 100%;
+      height: auto;
     }
   }
 </style>

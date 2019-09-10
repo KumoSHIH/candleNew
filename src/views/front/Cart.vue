@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="cartWrap container pt-3">
-      <div class="row no-gutters titleTop">
-        <div class="col-md-8 mt-5 no-gutters pr-md-4">
+      <div class="row justify-content-md-center no-gutters titleTop">
+        <div class="col-md-10 col-lg-8 mt-md-5 no-gutters pr-lg-4">
           <h3 class="text-center text-main bg-text-main py-2 mb-4 mt-4 mt-md-0">我的購物車</h3>
           <tr v-for="item in cart.carts" :key="item.id"
           class="d-flex justify-content-md-around align-items-center mb-3">
@@ -22,7 +22,7 @@
             </th>
           </tr>
         </div>
-        <div class="col-md-4 mt-5">
+        <div class="col-md-10 col-lg-4 no-gutters mt-5">
           <h3 class="text-center bg-main text-light py-2">訂單小計</h3>
           <div class="d-flex justify-content-between mt-3 px-2">
             <span class="h6">小計</span>
@@ -44,7 +44,7 @@
             </div>
           </div>
           <router-link to="cart_address">
-            <button class="btn btn-second w-100 py-2 mt-3 mb-5 mb-md-0">送出訂單 ></button>
+            <button class="btn btn-second w-100 py-2 mt-3 mb-5 mb-lg-0">送出訂單 ></button>
           </router-link>
         </div>
       </div>

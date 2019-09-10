@@ -20,7 +20,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-10">
+        <div class="col-md-12 col-lg-10">
           <div class="form-row justify-content-center justify-content-md-start mt-4 mt-md-0 mb-4">
             <div class="col-10 col-md-4 mb-4 mb-md-0" v-for="item in filterData" :key="item.id">
               <Card :card-item="item" />
