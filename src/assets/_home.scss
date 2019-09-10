@@ -220,14 +220,6 @@
   }
   
 }
-@media(max-width: 768px){
-  .hero2{
-    background: url(./assets/images/10.jpg) fixed;
-    background-position: center center;
-    background-size: cover;
-    height: 600px;  
-  }
-}
 @media (max-width: 416px) and(min-width: 319px){
   .hero2{
     height: 600px;
