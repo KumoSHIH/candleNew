@@ -4,6 +4,14 @@
 ## Demo
 https://kumoshih.github.io/candleNew/#/
 
+[![p4.jpg](https://i.postimg.cc/nLKQrvyV/p4.jpg)](https://postimg.cc/McTGrjZg)
+
+
+[![p2.jpg](https://i.postimg.cc/jdWwPVpF/p2.jpg)](https://postimg.cc/F74HX6sy)
+
+
+[![p3.jpg](https://i.postimg.cc/T1sKFQD0/p3.jpg)](https://postimg.cc/n9vVQ4T9)
+
 ## Introduction
 <ul>
   <li>前台
