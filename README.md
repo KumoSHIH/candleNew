@@ -34,13 +34,13 @@ https://kumoshih.github.io/candleNew/#/
   <li>SCSS</li>
   <li>Plugin:
     <ul>
-      <li>vue-axios</li>
-      <li>VeeValidate</li>
-      <li>vue-loading-overlay</li>
-      <li>vue-displacement-slideshow</li>
-      <li>Bootstrap 4</li>
-      <li>jQuery</li>
-      <li>anime.js</li>
+      <li>[vue-axios](https://www.npmjs.com/package/vue-axios)</li>
+      <li>[VeeValidate](https://logaretm.github.io/vee-validate/)</li>
+      <li>[vue-loading-overlay](https://www.npmjs.com/package/vue-loading-overlay)</li>
+      <li>[vue-displacement-slideshow](https://www.npmjs.com/package/vue-displacement-slideshow)</li>
+      <li>[Bootstrap 4](https://github.com/twbs/bootstrap)</li>
+      <li>[jQuery](https://www.npmjs.com/package/jquery)</li>
+      <li>[anime.js](https://github.com/juliangarnier/anime/)</li>
     </ul>
   </li>
 </ul>
