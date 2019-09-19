@@ -1,38 +1,17 @@
 <template>
   <div>
-    <div class="d-flex justify-content-center mt-5">
-      <div class="row">
-        <div class="col-6 wrap text-center py-2">
-          <div class="dashLine text-center">
-            <i class="fas fa-hand-holding-usd fa-4x text-info mt-3"></i>
-            <p class="h6 mt-3">結帳金額滿 999 (含)以上</p>
-            <p class="h6">輸入專屬優惠碼 , 即可享有優惠價!</p>
-          </div>
-        </div>
-        <div class="col-3 code text-center">
-          <div class="h1 mt-4 text-danger">
-            <strong>9折</strong>
-          </div>
-          <div class="text-white">結帳時請輸入優惠碼</div>
-          <div class="h6 text-danger mt-2">
-            <strong>candle90</strong>
-          </div>
-        </div>
-        <div class="grad"></div>
-      </div>
-    </div>
 
-    <div class="text-right">
+    <div class="text-center text-md-left mt-0 mt-md-5">
       <button class="btn btn-main" @click="openCouponModal">建立優惠券</button>
     </div>
-    <table class="table">
+    <table class="table mt-3">
       <thead>
         <tr>
           <th>名稱</th>
           <th width="15%">折扣百分比</th>
           <th width="15%">到期日</th>
           <th width="15%">是否啟用</th>
-          <th width="20%">編輯</th>
+          <th width="30%">編輯</th>
         </tr>
       </thead>
       <tbody>

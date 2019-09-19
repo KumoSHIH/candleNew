@@ -2,11 +2,9 @@
   <div>
     <Navbar/>
     <Alert/>
-    <div class="container-fluid">
-      <div class="row">
-        <Sidebar/>
-
-        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+    <div class="container">
+      <div class="row justify-content-center">
+        <main role="main" class="col-12 col-md-9 col-lg-12 px-1 mt-2 mt-md-5">
           <router-view></router-view>
         </main>
       </div>
