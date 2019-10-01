@@ -34,7 +34,7 @@
     <div class="slidershow-wrap">
       <vue-displacement-slideshow
         :images="images"
-        displacement="require('@/assets/images/7.jpg')"
+        displacement="require('@/assets/hero2.jpg')"
         :intensity="0.2"
         :speedIn="1.4"
         :speedOut="1.4"
