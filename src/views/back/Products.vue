@@ -42,7 +42,6 @@
         </div>
       </div>
     </div>
-    
     <!-- 新增產品Modal -->
     <div class="modal fade" id="productModal" tabindex="-1" role="dialog">
       <div class="modal-dialog modal-lg" role="document">
