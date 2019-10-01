@@ -4,7 +4,7 @@
     <table class="table mt-md-4">
       <thead>
         <tr>
-          <th class="d-none d-md-block">訂單編號</th>
+          <th class="d-none d-lg-block">訂單編號</th>
           <th width="50%">購買項目</th>
           <th class="d-none d-md-block">購買時間</th>
           <th>姓名</th>
@@ -22,7 +22,7 @@
       </thead>
       <tbody>
         <tr v-for="item in filterArray" :key="item.id">
-          <td class="d-none d-md-block">{{ item.id }}</td>
+          <td class="d-none d-lg-block">{{ item.id }}</td>
           <td>
             <li v-for="item in item.products" :key="item.id" class="list-unstyled">
               {{ item.product.title }} {{ item.qty }} {{ item.product.unit }}
