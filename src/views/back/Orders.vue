@@ -6,7 +6,7 @@
         <tr>
           <th class="d-none d-lg-block">訂單編號</th>
           <th width="50%">購買項目</th>
-          <th class="d-none d-md-block">購買時間</th>
+          <th width="120" class="d-none d-md-block">購買時間</th>
           <th>姓名</th>
           <th width="120" class="title" @click="isReverse = !isReverse, value = 'total'">應付金額
             <span class="icon isReverse" :class="{'rotate': isReverse}" v-if="value === 'total'">
